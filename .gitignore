@@ -6,3 +6,7 @@ dog.c
 build/
 hi.exe
 n_queens.exe
+.vscode/launch.json
+.vscode/tasks.json  
+launch.json
+tasks.json
