@@ -48,7 +48,4 @@ else
 for (i = 0; name[i] != '\0'; i++)
 {
 }
-{
-    return
-}
 
