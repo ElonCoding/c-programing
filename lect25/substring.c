@@ -1,6 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 int lengthOfLongestSubstring(char* s) {
-    // Hash map to store last seen index of each character
-    // ASCII characters range from 0-127
     int lastSeen[128];
     
     // Initialize all positions to -1 (not seen)
